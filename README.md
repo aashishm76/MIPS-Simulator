@@ -6,7 +6,7 @@ A MIPS simulator written in C. Useful for basic understanding of MIPS Assembly.
 
 Download main project.c file and compile using the following command
 
-gcc project.c
+gcc project.c (project file)
 
 This ensures your program compiled properly.
 
